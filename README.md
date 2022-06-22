@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Solomon
-- 👀 I’m interested in Programing (Full Stack Development)
+- 👀 I’m interested in Programming (Full Stack Development)
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
